@@ -1,6 +1,6 @@
 # Provisioning Kubernetes clusters on Azure with Terraform and AKS
 
-This repository contains the the sample code necessary to provision AKS clusters using Terraform.
+This repository contains the sample code necessary to provision AKS clusters using Terraform.
 
 Code samples:
 1. [Basic provisioning of a Resource Group with Terraform on Azure](01_resource_group/README.md)
